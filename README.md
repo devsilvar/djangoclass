@@ -32,13 +32,11 @@
 
 ### 5. Getting Template Files from GitHub
 
-   - Download the following HTML templates from GitHub:
+   - create the following HTML templates :
      - `index.html`
      - `login.html`
      - `register.html`
-     - `forgot_password.html`
-     - `password_reset_sent.html`
-     - `reset_password.html`
+    
 
 ### 6. Making required imports
 
